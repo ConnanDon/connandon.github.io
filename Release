@@ -1,11 +1,11 @@
-Origin: Little 34306's Repo
-Label: 34306
+Origin: Black Bi
+Label: Black
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: A little repo to use
+Description: Nguồn của Black Bi
 MD5Sum:
  2c81bd302ff062897540e9f4d36ff21f 2086 Packages
  cdab09bedf50ae04387071593bd388bd 1204 Packages.bz2
