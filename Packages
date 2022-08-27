@@ -90,3 +90,25 @@ Name: AutoTouch
 Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 
+Package: net.kenhtao.autotouch.inputtext
+Priority: optional
+Section: Utilities
+Installed-Size: 107052
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Architecture: iphoneos-arm
+Version: 7.0.33-1
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9)
+Conflicts: net.kenhtao.libat, net.kenhtao.autotouch, com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/net.kenhtao.autotouch.inputtext_7.0.33-1_iphoneos-arm.deb
+Size: 47843354
+MD5sum: 3952d12b3026c4f2d8ebc9aeafb521ae
+SHA1: a722d0eef6405c197de6e1e970e40dbc1914cfa8
+SHA256: 3f4de82568b04bf52fc151351b23e7ba25f45a84297323a6f9efb7d3f91feaea
+SHA512: 7dd8ebdf53d9e9bc8bc62dbd18d58273e49d48b8bf8b67a91bab720d4b63cf83bfd9957196ebbffcd965de79620af3d5c396876c3ab55afdad4a57264ad19260
+Description: AutoClick cho iOS.
+Homepage: https://autotouch.net/
+Name: AutoTouch with inputText VN
+Author: Kent Krantz <kentkrantz@gmail.com>
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.autotouch.inputtext
+Depiction: https://repo.kenhtao.net/view/7824
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
