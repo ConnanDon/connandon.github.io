@@ -1,11 +1,19 @@
-Package: com.Bi.Black
+Package: 0xcc.woodfairy.koi
 Architecture: iphoneos-arm
-Version: 1
+Version: 1.1.5
 Section: Tweaks
-Maintainer: Little 34306
-Filename: ./debs/com.Bi.Black_0.0.1_iphoneos-arm.deb
-Size: 1262026
-MD5sum: 4c53d04bdcf55eb0efca3fe1ed58a665
-Description: Anime Theme update 1.2
-Author: Huy Hue <little34306xd@gmail.com>
-Name: Anime Theme
+Maintainer: woodfairy & Litten
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/0xcc.woodfairy.koi_1.1.5_iphoneos-arm.deb
+Size: 337808
+MD5sum: 64b5ac9f9e399125cc635972e8699ec8
+SHA1: 385a0ff263f9113f4cc5587574b0d918f0390b91
+SHA256: 983d5caa332ed297b51ae40a83bf9424830faf2f5022a804ccadd1f7ffdad403
+SHA512: 7f8eb7ab89a4c1abd9a1d62b5a3e0809d3c37fea46b647f3e9b66252ef5f7382d62451fd904e19f6f539509e0d9970ea18c5acc136a3e2a205397bd56d87fc40
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
+Icon: https://repo.litten.love/depictions/koi/assets/icon.png
