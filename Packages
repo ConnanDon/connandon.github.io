@@ -1,7 +1,11 @@
 Package: com.Bi.Black
-Name: BlackBi
 Architecture: iphoneos-arm
-Description: Thuộc quyền sở hữu của Black Bi!!
+Version: 1
+Section: Tweaks
+Maintainer: Little 34306
 Filename: ./debs/com.Bi.Black_0.0.1_iphoneos-arm.deb
 Size: 1262026
 MD5sum: 4c53d04bdcf55eb0efca3fe1ed58a665
+Description: Anime Theme update 1.2
+Author: Huy Hue <little34306xd@gmail.com>
+Name: Anime Theme
