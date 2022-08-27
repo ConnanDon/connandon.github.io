@@ -52,7 +52,7 @@ Name: Black Bi
 Package: me.autotouch.AutoTouch.ios8.inputtext
 Architecture: iphoneos-arm
 Version: 6.1.8-2k
-Section: Utilities
+Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Priority: optional
