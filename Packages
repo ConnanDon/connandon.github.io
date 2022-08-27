@@ -17,3 +17,19 @@ Author: woodfairy & Litten
 Depiction: https://repo.litten.love/depictions/koi/index.html
 SileoDepiction: https://repo.litten.love/depictions/koi/koi.json
 Icon: https://repo.litten.love/depictions/koi/assets/icon.png
+
+Package: com.mins.pinger
+Architecture: iphoneos-arm
+Version: 0.0.1-15+debug
+Section: Tweaks
+Maintainer: Mins
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mins.pinger_0.0.1-15debug_iphoneos-arm.deb
+Size: 3278
+MD5sum: abc92692b0af73f725e1209c91f6d41a
+SHA1: 577c133c4e28b9f64237a01b0c6b74f77715f321
+SHA256: c1c168f8910e3d2e18391184c1790b7a7fc8e68e51acc957e365bb96324cbb21
+SHA512: 6c0822353e377268e0c9dcef3092183a7af7657e5947974ab6cf4567b8044a534bf9af498b31f778f427453e51b4f7b4d458520926ebd870938b3b2a3975e30c
+Description: An awesome MobileSubstrate tweak!
+Author: Mins
+Name: Pinger
