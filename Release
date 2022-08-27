@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Nguồn của Black Bi
 MD5Sum:
- a04185c0e9253540bd2b8d2874f72ce0 3131 Packages
- e0659888559dae6585963a8ad79423b0 1691 Packages.bz2
+ a9d246593c5efbbc9d3654f31ac577e1 4194 Packages
+ a07df30b52c5e1884c2714b6ca2dafef 2051 Packages.bz2
