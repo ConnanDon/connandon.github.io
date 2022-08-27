@@ -1,11 +1,8 @@
-Origin: Little 34306's Repo
-Label: 34306
+Origin: Nghĩa Đẹp Trai VCL
+Label: NTNghia
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm
+Architectures: iphoneos-arm
 Components: main
-Description: A little repo to use
-MD5Sum:
- cf45c642145a9ed18e7e541b4036d4b0 227 Packages
- f6d772ceb505b2607bba08b4da029515 239 Packages.bz2
+Description: Demo Repo.
