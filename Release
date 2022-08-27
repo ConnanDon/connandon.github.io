@@ -1,4 +1,4 @@
-Origin: Back Bi
+Origin: Little 34306's Repo
 Label: 34306
 Suite: stable
 Version: 1.0
@@ -6,3 +6,6 @@ Codename: ios
 Architecture: iphoneos-arm
 Components: main
 Description: A little repo to use
+MD5Sum:
+ cf45c642145a9ed18e7e541b4036d4b0 60013 Packages
+ 78019523fcb33a5b8a04567dcf771f6f 19401 Packages.bz2
