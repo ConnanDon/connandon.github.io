@@ -49,27 +49,6 @@ Description: Thuộc quyền sở hữu của Black Bi!!
 Author: Black
 Name: Black Bi
 
-Package: me.autotouch.AutoTouch.ios8.inputtext
-Name: AutoTouch with inputText
-Description: Record and playback touch operations, play macro scripts automatically.
-Section: Utilities
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Priority: optional
-Architecture: iphoneos-arm
-Author: Kent Krantz <kentkrantz@gmail.com>
-Homepage: https://autotouch.net
-Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
-Version: 6.1.8-2k
-Installed-Size: 100716
-Filename: ./debs/me.autotouch.6.1.8-2k_iphoneos-arm.deb
-Size: 26461766
-MD5sum: c16716bbc1d4af016e5b7c30889574bf
-SHA1: 0ccc1a3d70b2b90435399e61a9f4225887c0f491
-SHA256: 036ad48a13cc51ae64da2eb108b7dd7cd25ccbcc70c41b06efbc983d6dac168c
-SHA512: 6d33c22f4899c6683c7baab056f075f460e1df8e3333058f4230a2b9fd299617b322f94afcc60a9566cdcd307a4706e524c773d737b7a0a493317b3105b8545d
-
 Package: ru.rejail.autotouch
 Architecture: iphoneos-arm
 Version: 6.1.2k
@@ -90,26 +69,6 @@ Name: AutoTouch
 Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 
-Package: net.kenhtao.autotouch.inputtext
-Priority: optional
-Section: Utilities
-Installed-Size: 107052
-Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Architecture: iphoneos-arm
-Version: 7.0.33-1
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9)
-Conflicts: net.kenhtao.libat, net.kenhtao.autotouch, com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Description: AutoClick cho iOS.
-Homepage: https://autotouch.net/
-Name: AutoTouch with inputText VN
-Author: Kent Krantz <kentkrantz@gmail.com>
-Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.autotouch.inputtext
-Depiction: https://repo.kenhtao.net/view/7824
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
-Filename: ./debs/net.kenhtao.autotouch.inputtext_7.0.33-1_iphoneos-arm.deb
-Size: 47843354
-MD5sum: 3952d12b3026c4f2d8ebc9aeafb521ae
-
 Package: com.mins.ktnautolaunch
 Name: KTN_autolaunch
 Architecture: iphoneos-arm
@@ -124,17 +83,33 @@ Filename: ./debs/com.mins.ktnautolaunch_0.0.1-5+debug_iphoneos-arm.deb
 Size: 2516
 MD5sum: 02cb5f25cfd1006e42e26ca26a7b1485
 
-Package: com.mins.facebookplugin
-Name: FacebookPlugin
+Package: com.adjacentperiod
+Name: Adjacentperiod
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Mins
-Author: Mins
+Description: Cố định bàn phím
+Maintainer: Black
+Author: Black
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 0.0.1-1+debug
 Installed-Size: 136
-Filename: ./debs/net.kenhtao.adjacentperiod_1.deb
-Size: 5562
-MD5sum: 9fe2384da7cf1f43ea275edfc4dc2782
+Filename: ./debs/com.adjacentperiod_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5572
+MD5sum: 1cbe7a693d3b7347fb11fffdec85eb43
+
+Package: net.autotouch.inputtext
+Priority: optional
+Section: Utilities
+Installed-Size: 107052
+Maintainer: Black
+Architecture: iphoneos-arm
+Version: 7.0.33-1
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9)
+Description: AutoClick cho iOS.
+Name: AutoTouch with inputText iOS 14 VN
+Author: Black
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Filename: ./debs/net.autotouch.inputtext_7.0.33-1_iphoneos-arm.deb
+Size: 47843280
+MD5sum: 77583323f57cce522dee9f2f4ba075a2
 
