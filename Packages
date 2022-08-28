@@ -124,21 +124,17 @@ Filename: ./debs/com.mins.ktnautolaunch_0.0.1-5+debug_iphoneos-arm.deb
 Size: 2516
 MD5sum: 02cb5f25cfd1006e42e26ca26a7b1485
 
-Package: net.kenhtao.adjacentperiod
-Version: 1.1
-Section: Tweaks
-Maintainer: Kênh Táo
-Description: Luôn hiển thị phím dấu chấm bên cạnh phím cách.
-Depends: mobilesubstrate
+Package: com.mins.facebookplugin
+Name: FacebookPlugin
 Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mins
+Author: Mins
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-1+debug
 Installed-Size: 136
-Name: AdjacentPeriod VN
-Author: Mikeneko <neko@therapist.net>
-Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.adjacentperiod
-Depiction: https://repo.kenhtao.net/view/4321
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.6
-Filename: ./debs/net.kenhtao.adjacentperiod_1.1_iphoneos-arm.deb
-Size: 5726
-MD5sum: ae401085387d690638f6fd8995b32fca
+Filename: ./debs/net.kenhtao.adjacentperiod_1.deb
+Size: 5562
+MD5sum: 9fe2384da7cf1f43ea275edfc4dc2782
 
