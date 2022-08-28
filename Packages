@@ -112,3 +112,18 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.autotouch.inputtext
 Depiction: https://repo.kenhtao.net/view/7824
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
+
+Package: com.mins.ktnautolaunch
+Name: KTN_autolaunch
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mins
+Author: Mins
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-5+debug
+Installed-Size: 80
+Filename: ./debs/com.mins.ktnautolaunch_0.0.1-5+debug_iphoneos-arm.deb
+Size: 2516
+MD5sum: 02cb5f25cfd1006e42e26ca26a7b1485
+
